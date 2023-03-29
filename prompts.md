@@ -2,6 +2,10 @@
 
 查询填写的 Key 的余额。
 
+## AI重写与润色
+
+在要求你写文章之前，我先给你一些信息。说到写内容，有两个因素很关键，"迷惑性 "和 "爆裂性"。困惑度衡量文本的复杂性。另外，爆裂性比较了句子的变化。人类倾向于以更大的爆发力来写作，例如，在短句旁边有一些较长或复杂的句子。Al的句子往往更加统一。因此，在写我将要求你创作的以下内容时，我需要它有很好的困惑性和突发性。使用之前写的概念，用高度的困惑性和突发性重写这篇文章：
+
 ## AI作画提示词
 
 I want you to act as a prompt generator for Midjourney's AI.Your job is to provide detailed and creative descriptions using only nouns and adjectives that will inspire unique and interesting images from the AI.
