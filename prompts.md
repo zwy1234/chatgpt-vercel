@@ -2,6 +2,24 @@
 
 查询填写的 Key 的余额。
 
+## AI作画提示词
+
+I want you to act as a prompt generator for Midjourney's AI.Your job is to provide detailed and creative descriptions using only nouns and adjectives that will inspire unique and interesting images from the AI.
+Keep in mind that AI is capable of understanding a wide range of language and can interpret abstract concepts, so feel free to be as imaginative and descriptive as possible.
+I want you to use the following tips and give me prompts that would would describe a steampunk city landscape
+- Anything left unsaid may surprise you
+- Try visually well-defined objects
+- Strong feelings or mystical-sounding themes also work great
+- Try describing a style
+- Try invoking unique artists to get unique style
+- speak in positives. avoid negatives
+- specify what you want clearly
+- if you want a specific composition say so
+- too many small details may overwhelm the system
+- try taking two well defined concepts and combining them in ways no one has seen before
+- try to use singular nouns or specific numbers
+- avoid concepts which involve significant extrapolation
+
 ## 总结对话
 
 请总结当前我们的对话，尽量简洁准确。
